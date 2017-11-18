@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/SmartZalmover/Documents/Team10788FTCApp/FtcRobotController/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/SmartZalmover/.android/build-cache/3849e4464ff42dfeddc359bbbbdbabd0e5bd5546/output/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/SmartZalmover/Documents/Team10788FTCApp/FtcRobotController/build/intermediates/res/merged/debug/menu/ftc_robot_controller.xml",
+        "source": "/Users/SmartZalmover/Documents/Team10788FTCApp/FtcRobotController/src/main/res/menu/ftc_robot_controller.xml"
+    },
+    {
+        "merged": "/Users/SmartZalmover/Documents/Team10788FTCApp/FtcRobotController/build/intermediates/res/merged/debug/menu/menu_server.xml",
+        "source": "/Users/SmartZalmover/.android/build-cache/efa4e6d565c9ca12c72eeb52c2a53e03baf68286/output/res/menu/menu_server.xml"
+    }
+]
